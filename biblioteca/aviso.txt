@@ -1,0 +1,1 @@
+pra instalar a biblioteca vai em project structure -> libraries -> clica no mais e adiciona o javax.mail-api-1.6.2.jar
